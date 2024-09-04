@@ -3,7 +3,7 @@ Hi i'm Mohammad Abdul Kader
 I'm currently learning ReactJS, vite and Docker<br>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MHDabdulkader&icon=5&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=MHDabdulkader&icon=5&color=6)](https://visitcount.itsvg.in) 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammad-abdul-kader-998594263) 
@@ -23,4 +23,4 @@ I'm currently learning ReactJS, vite and Docker<br>
 
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) [![](https://visitcount.itsvg.in/api?id=MHDabdulkader&icon=5&color=6)](https://visitcount.itsvg.in)  -->
