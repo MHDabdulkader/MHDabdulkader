@@ -2,6 +2,8 @@
 Hi i'm Mohammad Abdul Kader
 I'm currently learning ReactJS, vite and Docker<br>
 
+---
+[![](https://visitcount.itsvg.in/api?id=MHDabdulkader&icon=5&color=6)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammad-abdul-kader-998594263) 
@@ -19,7 +21,6 @@ I'm currently learning ReactJS, vite and Docker<br>
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MHDabdulkader&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=MHDabdulkader&icon=5&color=6)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
